@@ -12,7 +12,7 @@ There are many advantages to sampling data, some include:
 
 ## Overview of the loan prediction risk analysis:
 
-The nature of credit lending, according to LendingClub, is the amount of good loan far outweight the number of bad loans.  This can provide interesting challenges due to the imbalance between outcomes.
+The nature of credit lending, according to LendingClub, is the amount of good loans far outweight the number of bad loans.  This can provide interesting challenges due to the imbalance between outcomes.
 
 Please see the various methods used to determine which algorithms perform better against each other and sampling methods to increase the overall accuracy and sensitivity of the results.
 
